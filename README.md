@@ -20,7 +20,7 @@ A secure, modern authentication single-page application built with **React 19**,
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/YTxFSGAMERz/auth0-login-flow.git
 cd auth0-login-flow
 npm install
 ```
